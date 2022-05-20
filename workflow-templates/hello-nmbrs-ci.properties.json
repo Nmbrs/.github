@@ -2,7 +2,7 @@
     "name": "Hello Nmbrs Workflow",
     "description": "Hello nmbrs CI starter workflow.",
     "categories": [
-        "Typescript"
+        "TypeScript"
     ],
     "filePatterns": [
         "package.json$",
