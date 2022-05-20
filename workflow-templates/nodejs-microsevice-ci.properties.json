@@ -2,7 +2,7 @@
     "name": "NodeJS base pipeline Workflow",
     "description": "NodeJS base pipeline starter workflow.",
     "categories": [
-        "Typescript"
+        "TypeScript"
     ],
     "filePatterns": [
         "package.json$",
