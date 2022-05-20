@@ -1,0 +1,12 @@
+{
+    "name": "Hello Nmbrs Workflow",
+    "description": "Hello nmbrs CI starter workflow.",
+    "categories": [
+        "Typescript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
