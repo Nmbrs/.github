@@ -1,0 +1,12 @@
+{
+    "name": "NodeJS base pipeline Workflow",
+    "description": "NodeJS base pipeline starter workflow.",
+    "categories": [
+        "Typescript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
