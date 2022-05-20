@@ -1,6 +1,6 @@
 {
-    "name": "NodeJS base pipeline Workflow",
-    "description": "NodeJS base pipeline starter workflow.",
+    "name": "NodeJS microservice: code review workflow",
+    "description": "Starter workflow for NodeJS microservices.",
     "categories": [
         "TypeScript"
     ],
